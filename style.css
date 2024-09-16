@@ -1,0 +1,21 @@
+h1 {
+    color:steelblue
+}
+body {
+background-color:ivory
+}
+* {
+    font-family: Arial, Helvetica, sans-serif;
+}
+#Photo1 {
+    width: 30px
+}
+#Photo2 {
+    width: 300px;
+}
+.Подзаголовок {
+    color:steelblue;
+}
+#block{
+    display: inline;
+}
